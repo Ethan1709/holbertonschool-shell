@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH=/holbertonschool-shell/init_files_variables__and_expansions:$action
+export PATH=/holbertonschool-shell/init_files_variables__and_expansions/action:$action
